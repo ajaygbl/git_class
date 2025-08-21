@@ -1,4 +1,3 @@
 Hello -- first line
 juice bar
 python library
-java
